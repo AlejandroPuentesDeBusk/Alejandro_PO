@@ -6,4 +6,4 @@ def area():
 
     area= lado*lado 
 
-    return area
+    print ("El area del cuadrado es = ",area)
