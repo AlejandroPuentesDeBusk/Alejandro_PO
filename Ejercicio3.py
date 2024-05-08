@@ -7,3 +7,5 @@ def area():
     area= lado*lado 
 
     print ("El area del cuadrado es = ",area)
+
+area()
